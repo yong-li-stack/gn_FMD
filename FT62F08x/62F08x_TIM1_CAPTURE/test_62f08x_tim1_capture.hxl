@@ -1,0 +1,29 @@
+### HEXMate logfile and output summary ###
+### Memory Usage ###
+ Unused memory ranges:
+  4h - 5h
+  70h - F17h
+  
+ test_62f08x_tim1_capture.hex ranges:
+  0h - 3h
+  6h - 6Fh
+  F18h - FFFh
+  
+### Hex Memory Map ###
+ Legend:
+  - = Unused memory
+  F = Filled ROM
+  S = Stored serial code
+  A = Stored ASCII string
+  R = Reserved for checksum
+  C = Stored checksum result
+  T = Trailing code
+  & = Find & replace opcode
+  X = Find & delete opcode
+  1 = test_62f08x_tim1_capture.hex
+00000000: 1111--1111111111111111111111111111111111111111111111111111111111
+00000040: 111111111111111111111111111111111111111111111111----------------
+00000F00: ------------------------1111111111111111111111111111111111111111
+00000F40: 1111111111111111111111111111111111111111111111111111111111111111
+00000F80: 1111111111111111111111111111111111111111111111111111111111111111
+00000FC0: 1111111111111111111111111111111111111111111111111111111111111111

@@ -1,0 +1,5 @@
+_ISR: CODE, 4 0 10
+_main: CODE, 1978 0 6
+_POWER_INITIAL: CODE, 1984 0 45
+_Time1Initial: CODE, 2029 0 19
+Total: 80
